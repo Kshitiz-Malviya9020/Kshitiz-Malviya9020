@@ -1,38 +1,66 @@
-# 👋 Hello, I'm [Your Name]!
+<h2 align="left">Hi 👋! My name is Kshitiz Malviya and I'm a CSE Student at Jiwaji University, Gwalior, from Betul.</h2>
 
-🚀 **CSE Student | AI/ML Enthusiast | Open Source Contributor**  
+###
 
-🔭 **Working on:** [Your Current Project]  
-🌱 **Learning:** Python, AI/ML, OpenCV, OpenGL  
-💬 **Ask me about:** Linux, Shell Scripting, Git, and Open Source  
-📫 **Contact me:** [Your Email] | [Your LinkedIn]  
-⚡ **Fun Fact:** [Something Interesting About You]  
+## 🌟 About Me  
+🔹 Passionate about AI/ML, Open Source, and System Programming.  
+🔹 Love exploring Linux, networking, and backend development.  
+🔹 Currently learning advanced data structures and algorithms.  
 
----
+###
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kshitiz-Malviya9020&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kshitiz-Malviya9020&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+</div>
 
----
+###
 
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
----
+###
 
-## 📌 Featured Projects
-🔹 [Project 1](https://github.com/yourusername/project1) - Short Description  
-🔹 [Project 2](https://github.com/yourusername/project2) - Short Description  
-🔹 [Project 3](https://github.com/yourusername/project3) - Short Description  
+## 🛠 Tech Stack  
 
----
+<div align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Development-FE7A16?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</div>
 
-### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://yourportfolio.com/)  
+###
+
+## 🚀 What I'm Working On  
+🔹 **Currently working on a Spotify Clone** – A music streaming web app with features like playlists, audio playback, and user authentication.  
+
+## 📖 What I'm Learning  
+🔹 Advanced C++ for high-performance computing  
+🔹 OpenCV and OpenGL for AI/ML & computer vision  
+🔹 **Machine Learning by Andrew Ng (Coursera)**  
+🔹 **Enhancing Web Development skills (Frontend + Backend)**  
+🔹 Cloud computing (Docker, Kubernetes, AWS basics)  
+
+###
+
+## 🌍 Connect with Me  
+<div align="left">
+  <a href="https://x.com/KshitizMalviya1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="Twitter logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/kshitiz-malviya-47b940339" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn logo" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://github.com/Kshitiz-Malviya9020/Kshitiz-Malviya9020/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+###
+

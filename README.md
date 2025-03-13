@@ -60,8 +60,6 @@
 
 <br clear="both">
 
-## 🐍 Contribution Graph  
-
-<img src="https://raw.githubusercontent.com/Kshitiz-Malviya9020/Kshitiz-Malviya9020/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###

@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="180" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Coding GIF" />
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Boy Coding GIF" />
 
 ###
 
@@ -60,7 +60,8 @@
 
 <br clear="both">
 
-<img src="https://github.com/Kshitiz-Malviya9020/Kshitiz-Malviya9020/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+## 🐍 Contribution Graph  
+
+<img src="https://raw.githubusercontent.com/Kshitiz-Malviya9020/Kshitiz-Malviya9020/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
-
